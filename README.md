@@ -20,7 +20,7 @@ This application allows users to sign up, log in, and manage their SlayPoints ba
 
 ## Tech Stack
 
-*   **Frontend Framework:** React 18+
+*   **Frontend Framework:** React 
 *   **Build Tool:** Vite
 *   **Backend Services:** Firebase
     *   Firebase Authentication (Email/Password)
